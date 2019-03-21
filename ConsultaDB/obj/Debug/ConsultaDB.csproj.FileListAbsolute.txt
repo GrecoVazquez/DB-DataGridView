@@ -1,0 +1,10 @@
+C:\Users\vazquezpauc\source\repos\ConsultaDB\ConsultaDB\bin\Debug\ConsultaDB.exe.config
+C:\Users\vazquezpauc\source\repos\ConsultaDB\ConsultaDB\bin\Debug\ConsultaDB.exe
+C:\Users\vazquezpauc\source\repos\ConsultaDB\ConsultaDB\bin\Debug\ConsultaDB.pdb
+C:\Users\vazquezpauc\source\repos\ConsultaDB\ConsultaDB\obj\Debug\ConsultaDB.csprojAssemblyReference.cache
+C:\Users\vazquezpauc\source\repos\ConsultaDB\ConsultaDB\obj\Debug\ConsultaDB.Form1.resources
+C:\Users\vazquezpauc\source\repos\ConsultaDB\ConsultaDB\obj\Debug\ConsultaDB.Properties.Resources.resources
+C:\Users\vazquezpauc\source\repos\ConsultaDB\ConsultaDB\obj\Debug\ConsultaDB.csproj.GenerateResource.cache
+C:\Users\vazquezpauc\source\repos\ConsultaDB\ConsultaDB\obj\Debug\ConsultaDB.csproj.CoreCompileInputs.cache
+C:\Users\vazquezpauc\source\repos\ConsultaDB\ConsultaDB\obj\Debug\ConsultaDB.exe
+C:\Users\vazquezpauc\source\repos\ConsultaDB\ConsultaDB\obj\Debug\ConsultaDB.pdb
